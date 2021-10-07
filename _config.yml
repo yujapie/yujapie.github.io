@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yoo Suhyeon"
+  name             : "yujapie"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "공부중.."
   location         : "Korea"
@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yujapie@gamail.com"
+      # url: "mailto:yujapie@gamail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
